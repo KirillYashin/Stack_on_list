@@ -1,6 +1,6 @@
 #pragma once
 #include <List.h>
-#include "../Exception/Exception.h"
+#include <Exception.h>
 
 template <class T>
 class Stack_on_list : public List<T>
